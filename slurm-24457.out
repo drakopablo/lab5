@@ -1,0 +1,29 @@
+Cortamos el fichero ./Sample1.fastq : 
+
+El fichero ./Sample1.fastq ocupa 3508 bytes
+Dividiendo el tamaño por 36 tenemos 97 bytes
+Por tanto leemos los primero 97 bytes del fichero ./Sample1.fastq
+Y guardamos los bytes anteriores en un nuevo fichero ./Sample1-cut.fastq
+
+Cortamos el fichero ./Sample2.fastq : 
+
+El fichero ./Sample2.fastq ocupa 3180 bytes
+Dividiendo el tamaño por 36 tenemos 88 bytes
+Por tanto leemos los primero 88 bytes del fichero ./Sample2.fastq
+Y guardamos los bytes anteriores en un nuevo fichero ./Sample2-cut.fastq
+
+Cortamos el fichero ./Sample3.fastq : 
+
+El fichero ./Sample3.fastq ocupa 3508 bytes
+Dividiendo el tamaño por 36 tenemos 97 bytes
+Por tanto leemos los primero 97 bytes del fichero ./Sample3.fastq
+Y guardamos los bytes anteriores en un nuevo fichero ./Sample3-cut.fastq
+
+Cortamos el fichero ./Sample4.fastq : 
+
+El fichero ./Sample4.fastq ocupa 3200 bytes
+Dividiendo el tamaño por 36 tenemos 88 bytes
+Por tanto leemos los primero 88 bytes del fichero ./Sample4.fastq
+Y guardamos los bytes anteriores en un nuevo fichero ./Sample4-cut.fastq
+
+
