@@ -23,7 +23,7 @@ alumno=36
 for i in ${fasta_files[@]}
 do
 	echo "Cortamos el fichero" $i ":" $'\n'
-	./file-cut.sh $i $alumno
+	./file-cut.sh $i $alumno &
 done
 echo
 
